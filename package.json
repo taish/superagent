@@ -1,5 +1,5 @@
 {
-  "name": "@taish/superagent",
+  "name": "superagent-clone-for-webworker",
   "version": "1.3.0",
   "description": "elegant & feature rich browser / node HTTP with a fluent API",
   "scripts": {
